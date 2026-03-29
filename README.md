@@ -4,7 +4,7 @@ An open conceptual framework for recognizing genuine understanding.
 
 **Current version:** 2.0 (March 2026)
 **Author:** Leslie Warren / Kraft Kollab
-**License:** CC BY-NC-SA 4.0
+**License:** CC BY-NC-SA 4.0 
 
 ---
 
